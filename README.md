@@ -6,8 +6,12 @@ This is an ES6 type module (not CommonJS), which should use with 'import' statem
 npm install exreda-logger
 ```
 ## Usage
+- Import the package
+```
+import log from 'exreda-logger'
+```
 
-Call log.info(), log.warn() or log.error() functions wherever you need to log messages.
+-Call log.info(), log.warn() or log.error() functions wherever you need to log messages.
 
 ### Examples: 
 - To log an info;

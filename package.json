@@ -1,6 +1,6 @@
 {
   "name": "exreda-logger",
-  "version": "2.0",
+  "version": "2.0.1",
   "description": "Simple logger for all projects.",
   "main": "index.mjs",
   "directories": {
