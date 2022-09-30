@@ -1,0 +1,20 @@
+{
+  "name": "exreda-logger",
+  "version": "2.0",
+  "description": "Simple logger for all projects.",
+  "main": "index.mjs",
+  "directories": {
+    "lib": "lib"
+  },
+  "types": "./types/index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "logger",
+    "npm logger",
+    "logging",
+    "error logging",
+    "error log"
+  ],
+  "author": "Prasad Beligala",
+  "license": "MIT"
+}
